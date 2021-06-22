@@ -1,4 +1,4 @@
-Concurso;Data Sorteio;1 Dezena;2 Dezena;3 Dezena;4 Dezena;5 Dezena;Arrecadacao Total;Ganhadores Quina;Cidade;Rateio Quina;Ganhadores Quadra;Rateio Quadra;Ganhadores Terno;Rateio Terno;Ganhadores Duque;Rateio Duque;Acumulado;Valor Acumulado;Estimativa Premio;Valor Acumulado Sorteio Especial São João
+concurso;data_sorteio;1_dezena;2_dezena;3_dezena;4_dezena;5_dezena;arrecadacao_total;ganhadores_quina;cidade;rateio_quina;ganhadores_quadra;rateio_quadra;ganhadores_terno;rateio_terno;ganhadores_duque;rateio_duque;acumulado;valor_acumulado;estimativa_premio;valor_acumulado_sorteio_especial_sao_joao
 1;13/03/1994;025;045;060;076;079;0,00;3;;75.731.225,00;127;1.788.927,00;7030;42.982,00;0;0,00;NAO;0,00;0,00;0,00
 2;17/03/1994;013;030;058;063;064;0,00;1;;118.499.397,00;105;1.128.565,00;4861;32.422,00;0;0,00;NAO;0,00;0,00;0,00
 3;20/03/1994;005;015;032;033;048;0,00;1;;154.244.270,00;232;664.846,00;10196;20.120,00;0;0,00;NAO;0,00;0,00;0,00
